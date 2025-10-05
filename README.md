@@ -7,3 +7,10 @@ We would look for:
 Modularity — use components where it makes sense to
 Code / project structure
 Working code
+
+Features:
+
+infinite scroll must scroll to the newly added item
+sort list
+delete items from list
+
